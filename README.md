@@ -1,3 +1,2 @@
 # Demo-Merge-Conflicts
-In class exercise
-by Jiaqi Chen
+A simple demo, by Jiaqi Chen, for DMIT-2018
